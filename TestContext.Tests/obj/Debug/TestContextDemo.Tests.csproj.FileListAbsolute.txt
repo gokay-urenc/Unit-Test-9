@@ -1,0 +1,13 @@
+D:\Applications\C#\Unit Testing\Unit_Test_9\TestContext.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Applications\C#\Unit Testing\Unit_Test_9\TestContext.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Applications\C#\Unit Testing\Unit_Test_9\TestContext.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Applications\C#\Unit Testing\Unit_Test_9\TestContext.Tests\bin\Debug\TestContext.Tests.dll
+D:\Applications\C#\Unit Testing\Unit_Test_9\TestContext.Tests\bin\Debug\TestContext.Tests.pdb
+D:\Applications\C#\Unit Testing\Unit_Test_9\TestContext.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Applications\C#\Unit Testing\Unit_Test_9\TestContext.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Applications\C#\Unit Testing\Unit_Test_9\TestContext.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Applications\C#\Unit Testing\Unit_Test_9\TestContext.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Applications\C#\Unit Testing\Unit_Test_9\TestContext.Tests\obj\Debug\TestContextDemo.Tests.csprojAssemblyReference.cache
+D:\Applications\C#\Unit Testing\Unit_Test_9\TestContext.Tests\obj\Debug\TestContextDemo.Tests.csproj.CopyComplete
+D:\Applications\C#\Unit Testing\Unit_Test_9\TestContext.Tests\obj\Debug\TestContext.Tests.dll
+D:\Applications\C#\Unit Testing\Unit_Test_9\TestContext.Tests\obj\Debug\TestContext.Tests.pdb
